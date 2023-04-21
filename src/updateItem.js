@@ -1,5 +1,6 @@
 "use strict";
 
+
 const AWS = require("aws-sdk")
 
 const updateItem = async (event) => {
